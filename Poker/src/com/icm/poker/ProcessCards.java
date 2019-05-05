@@ -54,8 +54,8 @@ public class ProcessCards {
 			System.out.println("There was an error processing the stream of data");
 		}
 
-		System.out.println("Player1 = " + playerOne);
-		System.out.println("Player2 = " + playerTwo);
+		System.out.println("Player1 : " + playerOne + " Hands");
+		System.out.println("Player2 : " + playerTwo + " Hands");
 
 	}
 
